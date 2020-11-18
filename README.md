@@ -1,19 +1,14 @@
-# Substrate Front End Template
+# Kylin Front End for Development
 
-This template allows you to create a front-end application that connects to a
-[Substrate](https://github.com/paritytech/substrate) node back-end with minimal
-configuration. To learn about Substrate itself, visit the
-[Substrate Developer Hub](https://substrate.dev).
+Kylin Front End for Development allows you to connect to [Kylin Node](https://github.com/kylin-network/kylin-node).
 
-The template is built with [Create React App](https://github.com/facebook/create-react-app)
+It's built with [Create React App](https://github.com/facebook/create-react-app)
 and [Polkadot js API](https://polkadot.js.org/api/). Familiarity with these tools
-will be helpful, but the template strives to be self-explanatory.
+will be helpful.
 
-## Using The Template
+## Installation
 
-### Installation
-
-The codebase is installed using [git](https://git-scm.com/) and [yarn](https://yarnpkg.com/). This tutorial assumes you have installed yarn globally prior to installing it within the subdirectories. For the most recent version and how to install yarn, please refer to [yarn](https://yarnpkg.com/) documentation and installation guides. 
+The codebase is installed using [git](https://git-scm.com/) and [yarn](https://yarnpkg.com/).
 
 ```bash
 # Clone the repository
@@ -22,9 +17,9 @@ cd ./kylin-front-end
 yarn install
 ```
 
-## Usage
+## Run
 
-You can start the template in development mode to connect to a locally running node
+You can start the Kylin Front End in development mode to connect to a locally running Kylin Node
 
 ```bash
 yarn start
@@ -39,7 +34,7 @@ and open `build/index.html` in your favorite browser.
 
 ## Configuration
 
-The template's configuration is stored in the `src/config` directory, with
+The configuration is stored in the `src/config` directory, with
 `common.json` being loaded first, then the environment-specific json file,
 and finally environment variables, with precedence.
 
