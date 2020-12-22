@@ -5359,9 +5359,9 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-gauge@~3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/gauge/-/gauge-3.0.0.tgz#2c03405c7538c39d7eb37b317022e325fb018bf7"
+gauge@~2.7.3:
+  version "2.7.4"
+  resolved "https://registry.yarnpkg.com/gauge/-/gauge-2.7.3.tgz#2c03405c7538c39d7eb37b317022e325fb018bf7"
   integrity sha1-LANAXHU4w51+s3sxcCLjJfsBi/c=
   dependencies:
     aproba "^1.0.3"
@@ -7831,7 +7831,7 @@ npmlog@^4.0.1:
   dependencies:
     are-we-there-yet "~1.1.2"
     console-control-strings "~1.1.0"
-    gauge "~3.0.0"
+    gauge "~2.7.3"
     set-blocking "~2.0.0"
 
 nth-check@^1.0.2, nth-check@~1.0.1:
