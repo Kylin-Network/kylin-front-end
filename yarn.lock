@@ -6473,9 +6473,9 @@ jest-config@^24.9.0:
     pretty-format "^24.9.0"
     realpath-native "^1.1.0"
 
-jest-diff@^24.9.0:
-  version "24.9.0"
-  resolved "https://registry.yarnpkg.com/jest-diff/-/jest-diff-24.9.0.tgz#931b7d0d5778a1baf7452cb816e325e3724055da"
+jest-diff@^26.6.2:
+  version "26.6.2"
+  resolved "https://registry.yarnpkg.com/jest-diff/-/jest-diff-26.6.2.tgz#931b7d0d5778a1baf7452cb816e325e3724055da"
   integrity sha512-qMfrTs8AdJE2iqrTp0hzh7kTd2PQWrsFyj9tORoKmu32xjPjeE4NyjVRDz8ybYwqS2ik8N4hsIpiVTyFeo2lBQ==
   dependencies:
     chalk "^2.0.1"
@@ -6596,7 +6596,7 @@ jest-matcher-utils@^24.9.0:
   integrity sha512-OZz2IXsu6eaiMAwe67c1T+5tUAtQyQx27/EMEkbFAGiw52tB9em+uGbzpcgYVpA8wl0hlxKPZxrly4CXU/GjHA==
   dependencies:
     chalk "^2.0.1"
-    jest-diff "^24.9.0"
+    jest-diff "^26.6.2"
     jest-get-type "^24.9.0"
     pretty-format "^24.9.0"
 
@@ -6719,7 +6719,7 @@ jest-snapshot@^24.9.0:
     "@jest/types" "^24.9.0"
     chalk "^2.0.1"
     expect "^24.9.0"
-    jest-diff "^24.9.0"
+    jest-diff "^26.6.2"
     jest-get-type "^24.9.0"
     jest-matcher-utils "^24.9.0"
     jest-message-util "^24.9.0"
