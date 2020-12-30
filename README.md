@@ -1,3 +1,5 @@
+**Caution! This repo is deprecated. The new Front End will be based on polkadot/apps.**
+
 # Kylin Front End for Development
 
 Kylin Front End for Development allows you to connect to [Kylin Node](https://github.com/kylin-network/kylin-node).
